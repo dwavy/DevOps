@@ -1,5 +1,4 @@
-<project>
-    <plugin>
+ <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
     <version>2.4</version>
@@ -63,4 +62,4 @@
         <developerConnection>scm:git:git://ServerIP/Repository</developerConnection>
         <url>scm:git:git://ServerIP/Repository</url>
    </scm>
-    </project>
+   
